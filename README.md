@@ -11,11 +11,11 @@ Module 4 homework
  
 ## <a name="OverviewProject"></a>Overview of Project
 
- [[1]](#1).   
+A school distric wants an analysis of their standarized test outcomes for various high schools. The data for all students in these high schools was analyzed to find trends in school performance using information such as school size and budget [[3]](#3)[[4]](#4). Aditionally, the data for the Thomas High School 9th grade has been brought into question due to inconsistancies. The analysis was performed with and without this data. The effects of this data removal will be further explained. 
 
 ### <a name="purpose"></a>Purpose
 
- 
+ The purpose of this project is to analyze the 
   
 ## <a name="Results"></a>Results
 
@@ -31,6 +31,8 @@ Module 4 homework
  
 
 ## <a name="Summary"></a> Summary
+
+[[1]](#1).  
 
  [[2]](#2). 
 
