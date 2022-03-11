@@ -15,7 +15,7 @@ A school distric wants an analysis of their standarized test outcomes for math a
 
 ### <a name="purpose"></a>Purpose
 
- The analysis will provide the following information for data including and excluding Thomas High School 9th grade.
+ The analysis will provide the following information for data excluding and including Thomas High School 9th grade [[1]](#1)[[2]](#2).
  
 * A high-level snapshot of the district's key metrics
 * An overview of the key metrics for each school
