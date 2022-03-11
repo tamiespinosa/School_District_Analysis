@@ -29,6 +29,8 @@ A school distric wants an analysis of their standarized test outcomes for math a
   
 ## <a name="Results"></a>Results
 
+
+
 * How is the district summary affected?
 * How is the school summary affected?
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
