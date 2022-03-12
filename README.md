@@ -31,10 +31,12 @@ A school distric wants an analysis of their standarized test outcomes for math a
 
 * How is the district summary affected?
 
-<p align="center"> <img src="Resources/Pictures/District_Summary_with.png" width ="100%" alt="District_Summary_with"> </p>
+The summary for the district indicates that when excluding the Thomas Highschool 9th Grade from the overall data, the passing percentages are slightly reduced. The overall passing percentage was reduced by a tenth of a percent. The math and reading passing percent were reduced by two and three tenths of a percent respectively. This shows that the Thomas High School 9th grade testing scores were making the percentages higher.   
+
+<p align="center"> <img src="Resources/Pictures/District_Summary_with.png" width ="70%" alt="District_Summary_with"> </p>
 <p align="center"> Figure 1: District Summary Including THS 9th Grade</p> 
 
-<p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="100%" alt="District_Summary_without"> </p>
+<p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="70%" alt="District_Summary_without"> </p>
 <p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
 
 * How is the school summary affected?
