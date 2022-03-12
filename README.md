@@ -31,10 +31,10 @@ A school distric wants an analysis of their standarized test outcomes for math a
 
 * How is the district summary affected?
 
-<p align="center"> <img src="Resources/Pictures/District_Summary_with.png" width ="100%" alt="Theater_Outcomes_vs_Launch"> </p>
+<p align="center"> <img src="Resources/Pictures/District_Summary_with.png" width ="100%" alt="District_Summary_with"> </p>
 <p align="center"> Figure 1: District Summary Including THS 9th Grade</p> 
 
-<p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="100%" alt="Theater_Outcomes_vs_Launch"> </p>
+<p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="100%" alt="District_Summary_without"> </p>
 <p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
 
 * How is the school summary affected?
