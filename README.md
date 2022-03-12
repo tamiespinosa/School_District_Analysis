@@ -58,27 +58,20 @@ The 9th graders' math and reading scores did not affect Thomas High School's ran
 <p align="center"> Figure 4: Top Schools Excluding THS 9th Grade</p> 
 
 * How does replacing the ninth-grade scores affect the following:
+
   - Math and reading scores by grade
-  - Scores by school spending
-  - Scores by school size
-  - Scores by school type
+  
+The only change for this part of the analysis is that the math and reading for Thomas High School 9th grade is changed from a value, to nan. All the other values remain unchanged. 
+
+  - Scores by school spending, school size and school type
+
+The results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in when removing the 9th grade data. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and eithout the 9th grade data. 
 
  
 
 ## <a name="Summary"></a> Summary
 
-[[1]](#1).  
-
- [[2]](#2). 
-
-...
-
-        candidate_name = row[2]
-        county_name =row[1]
-       
-...
-
-
+Generally speaking, the effects of excluding the Thomas High School 9th grade data were insignificant. At a district level the ranking of Thomas High School did not change, . At the school level, . Overall although the 9th grade data did enhance the passing percentages, the effects were small. 
 
 ## <a name="Resources"></a>Resources
 
