@@ -29,9 +29,14 @@ A school distric wants an analysis of their standarized test outcomes for math a
   
 ## <a name="Results"></a>Results
 
-
-
 * How is the district summary affected?
+
+<p align="center"> <img src="Resources/Pictures/District_Summary_with.png" width ="100%" alt="Theater_Outcomes_vs_Launch"> </p>
+<p align="center"> Figure 1: District Summary Including THS 9th Grade</p> 
+
+<p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="100%" alt="Theater_Outcomes_vs_Launch"> </p>
+<p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
+
 * How is the school summary affected?
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
