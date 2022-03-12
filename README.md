@@ -40,7 +40,18 @@ The summary for the district indicates that when excluding the Thomas Highschool
 <p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
 
 * How is the school summary affected?
+
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+The 9th graders' math and reading scores did not affect Thomas High School's ranking with respect to the other schools. In the analysis including and excluding the data, Thomas High School came second in both school rankings. The overall passing percentage is reduced from 90.94% to 90.63% from when including to when excluding the 9th graders' scores. This drop was not significant tnough to move Thomas High School's place. 
+
+<p align="center"> <img src="Resources/Pictures/Top_Schools_with.png" width ="70%" alt="Top_Schools_with"> </p>
+<p align="center"> Figure 3: Top Schools Including THS 9th Grade</p> 
+
+<p align="center"> <img src="Resources/Pictures/Top_Schools_without.png" width ="70%" alt="Top_Schools_without"> </p>
+<p align="center"> Figure 4: Top Schools Excluding THS 9th Grade</p> 
+
 * How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   - Scores by school spending
