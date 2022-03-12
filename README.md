@@ -11,11 +11,11 @@ Module 4 homework
  
 ## <a name="OverviewProject"></a>Overview of Project
 
-A school distric wants an analysis of their standarized test outcomes for math and reading for various high schools. The data for all students in these high schools was analyzed to find trends in school performance using information such as school size and budget [[3]](#3)[[4]](#4). Aditionally, the data for the Thomas High School 9th grade has been brought into question due to inconsistancies. The analysis was performed with and without this data. The effects of this data removal will be further explained. 
+A school distric wants an analysis of their standarized test outcomes for math and reading for various high schools. The data ([[3]](#3)[[4]](#4)) for all students in these high schools was analyzed to find trends in school performance using information such as school size and budget im addition to the student test scores. After the first analysis was performed, the data for the Thomas High School 9th grade was brought into question due to inconsistancies [[1]](#1)[[2]](#2). The effects of this data removal will be explained. 
 
 ### <a name="purpose"></a>Purpose
 
- The analysis will provide the following information for data excluding and including Thomas High School 9th grade [[1]](#1)[[2]](#2).
+ The analysis gathered the following information for data excluding and including Thomas High School 9th grade [[1]](#1)[[2]](#2).
  
 * A high-level snapshot of the district's key metrics
 * An overview of the key metrics for each school
@@ -26,8 +26,12 @@ A school distric wants an analysis of their standarized test outcomes for math a
   - School performance based on the budget per student
   - School performance based on the school size 
   - School performance based on the type of school
+ 
+ In this report, we will discuss the differences in results from one analysis to the other.
   
 ## <a name="Results"></a>Results
+
+
 
 * How is the district summary affected?
 
@@ -40,6 +44,7 @@ The summary for the district indicates that when excluding the Thomas Highschool
 <p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
 
 * How is the school summary affected?
+
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
