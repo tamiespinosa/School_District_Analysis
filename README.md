@@ -45,11 +45,13 @@ The summary for the district indicates that when excluding the Thomas Highschool
 
 * How is the school summary affected?
 
+The school summary indicates a small variation to the averages and passing percentages for Thomas High School. In Figure 4 we are only showing Thomas High School as all other high schoolds did not change. When taking out the 9th grade scores, the average for math score was reduced by 0.067 points and the average reading scores increased by 0.047 points. All of the percentages decreased when taking the 9th grade scores out, but only by a small amount. The overall passing percentage waas affected the most, with only a 0.32 difference in the values. 
+
 <p align="center"> <img src="Resources/Pictures/Per_School_Metrics_with.png" width ="70%" alt="Per_School_Metrics_with"> </p>
 <p align="center"> Figure 3: School Summary Including THS 9th Grade</p> 
 
 <p align="center"> <img src="Resources/Pictures/Per_School_Metrics_without_Corrected_THS.png" width ="70%" alt="Per_School_Metrics_without_Corrected_THS"> </p>
-<p align="center"> Figure 2: School Summary Excluding THS 9th Grade - THS only</p> 
+<p align="center"> Figure 4: School Summary Excluding THS 9th Grade - THS only</p> 
 
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
