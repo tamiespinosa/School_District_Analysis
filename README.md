@@ -93,10 +93,10 @@ The results for scores by school spending, size and type were slightly changed i
 
 #### <a name="SchoolSpend"></a> School Spending Brackets
 
-<p align="center"> <img src="Resources/Pictures/Spending_Ranges_with.png" width ="70%" alt="Spending_Ranges_with"> </p>
+<p align="center"> <img src="Resources/Pictures/Spending_Ranges_With.png" width ="70%" alt="Spending_Ranges_With"> </p>
 <p align="center"> Figure 7: Spending Ranges Including THS 9th Grade</p> 
 
-<p align="center"> <img src="Resources/Pictures/Spending_Ranges_without.png" width ="70%" alt="Spending_Ranges_without"> </p>
+<p align="center"> <img src="Resources/Pictures/Spending_Ranges_Without.png" width ="70%" alt="Spending_Ranges_Without"> </p>
 <p align="center"> Figure 8: Spending Ranges Excluding THS 9th Grade</p> 
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_Formatted.png" width ="70%" alt="Spending_Ranges_Formatted"> </p>
