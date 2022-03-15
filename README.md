@@ -5,6 +5,10 @@ Module 4 homework
 - [Overview of Project](#OverviewProject)
   * [Purpose](#purpose)
 - [Results](#Results)
+  * [District Summary](#DistSumm)
+  * [School Summary](#SchoolSumm)
+  * [School Ranking](#SchoolRank)
+  * [Score By Grade](#ScoreGrade)
 - [Summary](#Summary)
 - [Resources](#Resources)
 
@@ -31,8 +35,7 @@ A school distric wants an analysis of their standarized test outcomes for math a
  
 ## <a name="Results"></a>Results
 
-
-
+### <a name="DistSumm"></a>District Summary
 * How is the district summary affected?
 
 The summary for the district indicates that when excluding the Thomas Highschool 9th Grade from the overall data, the passing percentages are slightly reduced. The overall passing percentage was reduced by a tenth of a percent. The math and reading passing percent were reduced by two and three tenths of a percent respectively. This shows that the Thomas High School 9th grade testing scores were making the percentages marginally higher.   
@@ -43,6 +46,7 @@ The summary for the district indicates that when excluding the Thomas Highschool
 <p align="center"> <img src="Resources/Pictures/District_Summary_without.png" width ="70%" alt="District_Summary_without"> </p>
 <p align="center"> Figure 2: District Summary Excluding THS 9th Grade</p> 
 
+### <a name="SchoolSumm"></a>School Summary
 * How is the school summary affected?
 
 The school summary indicates a small variation to the averages and passing percentages for Thomas High School. In Figure 4 we are only showing Thomas High School as all other high schoolds did not change. When taking out the 9th grade scores, the average for math score was reduced by 0.067 points and the average reading scores increased by 0.047 points. All of the percentages decreased when taking the 9th grade scores out, but only by a small amount. The overall passing percentage waas affected the most, with only a 0.32 difference in the values. 
@@ -53,6 +57,7 @@ The school summary indicates a small variation to the averages and passing perce
 <p align="center"> <img src="Resources/Pictures/Per_School_Metrics_without_Corrected_THS.png" width ="70%" alt="Per_School_Metrics_without_Corrected_THS"> </p>
 <p align="center"> Figure 4: School Summary Excluding THS 9th Grade - THS only</p> 
 
+### <a name="SchoolRank"></a>School Ranking
 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
@@ -64,10 +69,10 @@ The 9th graders' math and reading scores did not affect Thomas High School's ran
 <p align="center"> <img src="Resources/Pictures/Top_Schools_without.png" width ="70%" alt="Top_Schools_without"> </p>
 <p align="center"> Figure 4: Top Schools Excluding THS 9th Grade</p> 
 
-* How does replacing the ninth-grade scores affect the following:
+### <a name="ScoreGrade"></a>Scores By Grade
 
-  - Math and reading scores by grade
-  
+* How does replacing the ninth-grade scores affect math and reading scores by grade:
+ 
 The only change for this part of the analysis is that the math and reading for Thomas High School 9th grade is changed from a value, to nan. All the other values remain unchanged. 
 
 <p align="center"> <img src="Resources/Pictures/By_Grade_Math.png" width ="70%" alt="By_Grade_Math"> </p>
@@ -75,7 +80,8 @@ The only change for this part of the analysis is that the math and reading for T
 
 <p align="center"> <img src="Resources/Pictures/By_Grade_Reading.png" width ="70%" alt="By_Grade_Reading"> </p>
 <p align="center"> Figure 6: Reading Scores By Grade Including vs Excluding THS 9th Grade</p> 
-  - Scores by school spending, school size and school type
+* How does replacing the ninth-grade scores affect the following:
+- Scores by school spending, school size and school type
 
 The results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in when removing the 9th grade data. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and eithout the 9th grade data. 
 
