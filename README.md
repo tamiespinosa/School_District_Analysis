@@ -9,10 +9,10 @@ Module 4 homework
   * [School Summary](#SchoolSumm)
   * [School Ranking](#SchoolRank)
   * [Score By Grade](#ScoreGrade)
-  * [Scores by Schools Categories] (#SchoolCat)
-    * [School Spending Brackets] (#SchoolSpend)
-    * [School Size Brackets] (#SchoolSize)
-    * [School Types Brackets] (#SchoolType)  
+  * [Score By School Categories](#SchoolCat)
+    * [School Spending Brackets](#SchoolSpend) 
+    * [School Size Brackets](#SchoolSize) 
+    * [School Types Brackets](#SchoolType) 
 - [Summary](#Summary)
 - [Resources](#Resources)
 
@@ -85,7 +85,7 @@ The only change for this part of the analysis is that the math and reading for T
 <p align="center"> <img src="Resources/Pictures/By_Grade_Reading.png" width ="70%" alt="By_Grade_Reading"> </p>
 <p align="center"> Figure 6: Reading Scores By Grade Including vs Excluding THS 9th Grade</p> 
 
-### <a name="SchoolCat"></a> Scores by Schools Categories
+### <a name="SchoolCat"></a> Scores by School Categories
 
 * How does replacing the ninth-grade scores affect scores by school spending, school size and school type:
 
