@@ -70,6 +70,11 @@ The 9th graders' math and reading scores did not affect Thomas High School's ran
   
 The only change for this part of the analysis is that the math and reading for Thomas High School 9th grade is changed from a value, to nan. All the other values remain unchanged. 
 
+<p align="center"> <img src="Resources/Pictures/By_Grade_Math.png" width ="70%" alt="By_Grade_Math"> </p>
+<p align="center"> Figure 5: Math Scores By Grade Including vs Excluding THS 9th Grade</p> 
+
+<p align="center"> <img src="Resources/Pictures/By_Grade_Reading.png" width ="70%" alt="By_Grade_Reading"> </p>
+<p align="center"> Figure 6: Reading Scores By Grade Including vs Excluding THS 9th Grade</p> 
   - Scores by school spending, school size and school type
 
 The results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in when removing the 9th grade data. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and eithout the 9th grade data. 
