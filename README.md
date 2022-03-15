@@ -85,13 +85,13 @@ The only change for this part of the analysis is that the math and reading for T
 <p align="center"> <img src="Resources/Pictures/By_Grade_Reading.png" width ="70%" alt="By_Grade_Reading"> </p>
 <p align="center"> Figure 6: Reading Scores By Grade Including vs Excluding THS 9th Grade</p> 
 
-### <a name="SchoolCat"></a>Scores by Schools Categories
+### <a name="SchoolCat"></a> Scores by Schools Categories
 
 * How does replacing the ninth-grade scores affect scores by school spending, school size and school type:
 
 The results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in when removing the 9th grade data. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and without the 9th grade data. 
 
-#### <a name="SchoolSpend"></a>School Spending Brackets
+#### <a name="SchoolSpend"></a> School Spending Brackets
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_with.png" width ="70%" alt="Spending_Ranges_with"> </p>
 <p align="center"> Figure 7: Spending Ranges Including THS 9th Grade</p> 
@@ -102,7 +102,7 @@ The results for scores by school spending, size and type were slightly changed i
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_Formatted.png" width ="70%" alt="Spending_Ranges_Formatted"> </p>
 <p align="center"> Figure 9: Spending Ranges Formatted for Both Analysis</p> 
 
-#### <a name="SchoolSize"></a>School Size Brackets
+#### <a name="SchoolSize"></a> School Size Brackets
 
 <p align="center"> <img src="Resources/Pictures/School_Size_with.png" width ="70%" alt="School_Size_with"> </p>
 <p align="center"> Figure 10: School Size Ranges Including THS 9th Grade</p> 
@@ -114,7 +114,7 @@ The results for scores by school spending, size and type were slightly changed i
 <p align="center"> Figure 12: School Size Formatted for Both Analysis</p> 
 
 
-#### <a name="SchoolType"></a>School Types Brackets
+#### <a name="SchoolType"></a> School Types Brackets
   
 <p align="center"> <img src="Resources/Pictures/School_Type_with.png" width ="70%" alt="School_Type_with"> </p>
 <p align="center"> Figure 13: School Type Including THS 9th Grade</p> 
