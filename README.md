@@ -89,11 +89,13 @@ The only change for this part of the analysis is that the math and reading for T
 
 * How does replacing the ninth-grade scores affect scores by school spending, school size and school type:
 
-When removing the 9th grade data the results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and without the 9th grade data. 
+As part of the analysis we created tables classifying schools based on their spending, size and school type. We then evaluated what the average scores for math and reading and the passing percentages were for every category. 
+
+When removing the 9th grade data the results changed slightly changed in the categories that Thomas High School belonged in. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and without the 9th grade data. 
 
 #### <a name="SchoolSpend"></a> School Spending Brackets
 
-Thomas High School belongs to the $630 - $644 spending bracket per student. The average for math and reading scores for this category decreased by 0.016 and 0.012 points respectively when removing the Thomas 9th grade data. Therefore, when formatting and rounding to one decimal place the difference between the two data sets goes away. Similarly all percentages changed by less than 0.1, making the percentages in the formatted table (rounded to no decimal places) identical. 
+Thomas High School belongs to the $630 - $644 per student spending bracket. The average for math and reading scores for this category decreased by 0.016 and 0.012 points respectively when removing the Thomas 9th grade data. Therefore, when formatting and rounding to one decimal place the difference between the two data sets goes away. Similarly all percentages changed by less than 0.1, making the percentages in the formatted table (rounded to no decimal places) identical. 
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_With.png" width ="70%" alt="Spending_Ranges_With"> </p>
 <p align="center"> Figure 7: Spending Ranges Including THS 9th Grade</p> 
@@ -109,7 +111,7 @@ Thomas High School belongs to the $630 - $644 spending bracket per student. The 
 
 #### <a name="SchoolSize"></a> School Size Brackets
 
-
+Thomas High School is a medium size school. 
 
 <p align="center"> <img src="Resources/Pictures/School_Size_with.png" width ="70%" alt="School_Size_with"> </p>
 <p align="center"> Figure 10: School Size Ranges Including THS 9th Grade</p> 
@@ -123,7 +125,7 @@ Thomas High School belongs to the $630 - $644 spending bracket per student. The 
 
 #### <a name="SchoolType"></a> School Types Brackets
 
-Thomas High School is a Charter School. 
+Thomas High School is a Charter School. When excluding the Thomas High School 9th grade data from the average scores for charter schools, the math average decreased by 0.008 points and the reading average decreased by 0.006 points. The passing percentages were reduced by less than 0.1. When formatting and rounding the tables became identical for both analysis. 
 
 <p align="center"> <img src="Resources/Pictures/School_Type_with.png" width ="70%" alt="School_Type_with"> </p>
 <p align="center"> Figure 13: School Type Including THS 9th Grade</p> 
