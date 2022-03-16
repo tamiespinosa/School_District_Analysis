@@ -89,15 +89,19 @@ The only change for this part of the analysis is that the math and reading for T
 
 * How does replacing the ninth-grade scores affect scores by school spending, school size and school type:
 
-The results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in when removing the 9th grade data. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and without the 9th grade data. 
+When removing the 9th grade data the results for scores by school spending, size and type were slightly changed in the categories that Thomas High School belonged in. But the changes were so insignificant, that when rounding up for formatting purposes the tables for school spending, school size and school type looked identical with and without the 9th grade data. 
 
 #### <a name="SchoolSpend"></a> School Spending Brackets
+
+Thomas High School belongs to the $630 - $644 spending bracket per student. The average for math and reading scores for this category decreased by 0.016 and 0.012 points respectively when removing the Thomas 9th grade data. Therefore, when formatting and rounding to one decimal place the difference between the two data sets goes away. Similarly all percentages changed by less than 0.1, makign the percentages in the formatted table (rounded to no decimal places) identical. 
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_With.png" width ="70%" alt="Spending_Ranges_With"> </p>
 <p align="center"> Figure 7: Spending Ranges Including THS 9th Grade</p> 
 
+
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_Without.png" width ="70%" alt="Spending_Ranges_Without"> </p>
 <p align="center"> Figure 8: Spending Ranges Excluding THS 9th Grade</p> 
+
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_Formatted.png" width ="70%" alt="Spending_Ranges_Formatted"> </p>
 <p align="center"> Figure 9: Spending Ranges Formatted for Both Analysis</p> 
