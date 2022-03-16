@@ -111,7 +111,7 @@ Thomas High School belongs to the $630 - $644 per student spending bracket. The 
 
 #### <a name="SchoolSize"></a> School Size Brackets
 
-Thomas High School is a medium size school. 
+Thomas High School is a medium size school. When excluding the Thomas High School 9th grade data the medium size school's math average decreased by 0.013 points and the reading average increased by 0.009 points. The passing percentages changed by less than 0.1. When formatting, the table for both analysis looked identical.  
 
 <p align="center"> <img src="Resources/Pictures/School_Size_with.png" width ="70%" alt="School_Size_with"> </p>
 <p align="center"> Figure 10: School Size Ranges Including THS 9th Grade</p> 
