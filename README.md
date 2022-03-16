@@ -93,7 +93,7 @@ When removing the 9th grade data the results for scores by school spending, size
 
 #### <a name="SchoolSpend"></a> School Spending Brackets
 
-Thomas High School belongs to the $630 - $644 spending bracket per student. The average for math and reading scores for this category decreased by 0.016 and 0.012 points respectively when removing the Thomas 9th grade data. Therefore, when formatting and rounding to one decimal place the difference between the two data sets goes away. Similarly all percentages changed by less than 0.1, makign the percentages in the formatted table (rounded to no decimal places) identical. 
+Thomas High School belongs to the $630 - $644 spending bracket per student. The average for math and reading scores for this category decreased by 0.016 and 0.012 points respectively when removing the Thomas 9th grade data. Therefore, when formatting and rounding to one decimal place the difference between the two data sets goes away. Similarly all percentages changed by less than 0.1, making the percentages in the formatted table (rounded to no decimal places) identical. 
 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_With.png" width ="70%" alt="Spending_Ranges_With"> </p>
 <p align="center"> Figure 7: Spending Ranges Including THS 9th Grade</p> 
@@ -106,7 +106,10 @@ Thomas High School belongs to the $630 - $644 spending bracket per student. The 
 <p align="center"> <img src="Resources/Pictures/Spending_Ranges_Formatted.png" width ="70%" alt="Spending_Ranges_Formatted"> </p>
 <p align="center"> Figure 9: Spending Ranges Formatted for Both Analysis</p> 
 
+
 #### <a name="SchoolSize"></a> School Size Brackets
+
+
 
 <p align="center"> <img src="Resources/Pictures/School_Size_with.png" width ="70%" alt="School_Size_with"> </p>
 <p align="center"> Figure 10: School Size Ranges Including THS 9th Grade</p> 
@@ -119,7 +122,9 @@ Thomas High School belongs to the $630 - $644 spending bracket per student. The 
 
 
 #### <a name="SchoolType"></a> School Types Brackets
-  
+
+Thomas High School is a Charter School. 
+
 <p align="center"> <img src="Resources/Pictures/School_Type_with.png" width ="70%" alt="School_Type_with"> </p>
 <p align="center"> Figure 13: School Type Including THS 9th Grade</p> 
 
