@@ -139,7 +139,7 @@ Thomas High School is a Charter School. When excluding the Thomas High School 9t
 
 ## <a name="Summary"></a> Summary
 
-Generally speaking, the effects of excluding the Thomas High School 9th grade data were insignificant. At a district level the ranking of Thomas High School did not change, . At the school level, . Overall although the 9th grade data did enhance the passing percentages, the effects were small. 
+Generally speaking, the effects of excluding the Thomas High School 9th grade data were insignificant. Of the 39,170 students that the district has, Thomas High School's 9th grade represents 1.18% (461 students). Therefore it makes sense the little effect this grade had on the district level averages. At the school level, the overall passing percentage decreased from 90.94% to 90.63% when excluding the 9th grade data. Yet, the ranking of Thomas High School did not change, in both analysys it ranked second in the district . Overall although the 9th grade data did enhance the passing percentages, the effects were small. In the analysis of the school categories, removing the 9th grade data also produced insignificant effects that were completely erased once the tables were formatted to round up the values. 
 
 ## <a name="Resources"></a>Resources
 
